@@ -1,0 +1,3 @@
+# `jsonlfmt`
+
+Formatter for JSONL.

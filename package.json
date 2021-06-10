@@ -1,0 +1,15 @@
+{
+  "name": "jsonlfmt",
+  "version": "1.0.0",
+  "description": "Formatter for JSONL",
+  "main": "index.js",
+  "keywords": [
+    "jsonlines",
+    "formatter"
+  ],
+  "author": "Yash Singh",
+  "license": "MIT",
+  "dependencies": {
+    "@saiansh2525/jsonlines": "^1.1.1"
+  }
+}

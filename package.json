@@ -21,7 +21,7 @@
     "url": "https://github.com/Yash-Singh1/jsonlfmt"
   },
   "devDependencies": {
-    "mocha": "^9.0.0",
+    "mocha": "^10.0.0",
     "should": "^13.2.3"
   },
   "scripts": {
